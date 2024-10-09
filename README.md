@@ -2,7 +2,8 @@
 
 # Module 15 Challenge for the University of Minnesota Data Visualization Boot Camp
 
-![image](https://github.com/user-attachments/assets/eb4c5f4c-c671-4c5e-8e3d-c91dca4ad2d3)
+![image](https://github.com/user-attachments/assets/c09b8d8d-03c4-4576-bda3-249e94c3119a)
+
 
 ## Background
 ### The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.

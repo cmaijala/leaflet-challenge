@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-# Module 15 Challenge for the University of Minnesota Data Visualization Boot Camp
+## Module 15 Challenge for the University of Minnesota Data Visualization Boot Camp
 
 ![image](https://github.com/user-attachments/assets/c09b8d8d-03c4-4576-bda3-249e94c3119a)
 

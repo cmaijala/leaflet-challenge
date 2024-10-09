@@ -17,5 +17,5 @@
 
 #### Dataset created by the United States Geological SurveyLinks to an external site. https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
-
+#### ChatGPT Assistance: Ongoing guidance and support were provided by ChatGPT throughout the project for ETL best practices and Python implementation.
 
